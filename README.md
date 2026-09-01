@@ -17,3 +17,23 @@ Los ejercicios se sincronizan automáticamente con este repositorio mediante **L
 ---
 
 Gracias por visitar y explorar mis soluciones.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0005-longest-palindromic-substring/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0005-longest-palindromic-substring/) | Medium |
+<!---LeetCode Topics End-->
