@@ -22,7 +22,7 @@ var longestPalindrome = function(s) {
             
             if(valida&&(j-i)>=resultado.length){
               resultado=s.substring(i,j+1);
-              
+              break;
             }
             
         }
