@@ -37,4 +37,12 @@ Gracias por visitar y explorar mis soluciones.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
