@@ -27,7 +27,7 @@ var reverse = function(x) {
        resultado=resultado+(i*digitos[j]);
        i=i/10; 
     }
-    if(resultado>2147483647){
+    if(resultado>((2**31))-1){
             return 0;
         } 
     if(!positivo){
