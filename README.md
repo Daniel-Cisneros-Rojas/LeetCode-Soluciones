@@ -45,4 +45,8 @@ Gracias por visitar y explorar mis soluciones.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
