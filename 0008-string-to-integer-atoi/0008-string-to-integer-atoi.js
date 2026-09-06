@@ -41,8 +41,6 @@ var myAtoi = function(s) {
     }
     if(resultado>((2**31)-1)){
         resultado= (2**31);
-        console.log("entro");
-        console.log(positivo);
         resultado= positivo? resultado-1:resultado;
     }
     return positivo? resultado: resultado*-1;
