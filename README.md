@@ -42,6 +42,7 @@ Gracias por visitar y explorar mis soluciones.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,12 @@ Gracias por visitar y explorar mis soluciones.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0009-palindrome-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
