@@ -32,6 +32,7 @@ Gracias por visitar y explorar mis soluciones.
 | [0006-zigzag-conversion](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0013-roman-to-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,12 +52,14 @@ Gracias por visitar y explorar mis soluciones.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0013-roman-to-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
