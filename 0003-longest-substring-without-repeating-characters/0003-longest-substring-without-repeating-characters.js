@@ -3,7 +3,7 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
-    console.log(s);
+    
     let subcadena=[];
     let subcadena_mas_larga=[];
     for(let j=0;j<s.length;j++){
@@ -15,7 +15,7 @@ var lengthOfLongestSubstring = function(s) {
             }else{
                 break;
             }
-            //console.log(subcadena);
+           //verificar si la nueva es mayor a la existente
             }
             if(subcadena.length>subcadena_mas_larga.length){
                 subcadena_mas_larga=subcadena;
