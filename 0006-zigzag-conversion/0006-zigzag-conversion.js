@@ -5,9 +5,12 @@
  */
 var convert = function(s, numRows) {
     
+    //caso unico, es mas practico regresar la cadena
     if(numRows==1){
         return s;
     }
+
+    //inicializo las filas como arreglos para al final juntarlas
     let rows=[];
     for(let i=0;i<numRows;i++){
        rows.push("");
@@ -15,6 +18,7 @@ var convert = function(s, numRows) {
     
     let bajando=true;
     let contador=1;
+    //simulacion de subir y bajar en zigzag empujando la letra a la fila correcta
     for(let i=0;i<s.length;i++){
 
         rows[contador-1]=rows[contador-1]+s[i];
@@ -31,9 +35,9 @@ var convert = function(s, numRows) {
        }
     }
     let resultado="";
+    //union de filas
     for(let i=0;i<rows.length;i++){
       resultado=resultado+rows[i];
     }
-    console.log(rows);
     return resultado;
 };
