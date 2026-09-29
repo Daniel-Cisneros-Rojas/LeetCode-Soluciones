@@ -3,6 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat\&logo=leetcode\&logoColor=black)
 ![LeetHub 3.0](https://img.shields.io/badge/LeetHub%203.0-181717?style=flat\&logo=github\&logoColor=white)
+![PHP](https://shields.io)
 
 Colección de problemas de **LeetCode resueltos**, enfocada en la práctica de algoritmos, estructuras de datos y resolución de problemas.
 
