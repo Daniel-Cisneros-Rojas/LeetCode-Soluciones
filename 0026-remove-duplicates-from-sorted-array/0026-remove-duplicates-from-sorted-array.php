@@ -5,18 +5,17 @@ class Solution {
      * @return Integer
      */
     function removeDuplicates(&$nums) {
-        echo "\n inicio \n";
+        
         $puntero=1;
         for($i=1;$i<count($nums);$i++){
-            echo "\n $nums[$i]";
+            //comparamos con el elemento anterior, si es unico lo guardamos
             if($nums[$i-1]!=$nums[$i]){
                 $nums[$puntero]=$nums[$i];
                 $puntero++;
             }
         }
-        var_dump($nums);
-        echo "\n $puntero";
+        //el ejercicio solo revisa el arreglo hasta la cantidad de $puntero, no importa que el arreglo tenga elementos repetidos despues por eso no se usa splice
         return $puntero;
     }
-    //var_dump($nums);
+    
 }
