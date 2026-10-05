@@ -26,6 +26,7 @@ Gracias por visitar y explorar mis soluciones.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ Gracias por visitar y explorar mis soluciones.
 | [0004-median-of-two-sorted-arrays](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
