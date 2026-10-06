@@ -7,7 +7,7 @@
 
 Colección de problemas de **LeetCode resueltos**, enfocada en la práctica de algoritmos, estructuras de datos y resolución de problemas.
 
-Los ejercicios se sincronizan automáticamente con este repositorio mediante **LeetHub 3.0**, una extensión que permite enviar y organizar las soluciones de LeetCode directamente en GitHub.
+Los ejercicios se sincronizan automáticamente con este repositorio mediante **LeetHub 3.0**, una extensión que permite enviar y organizar las soluciones de LeetCode directamente en GitHub. 
 
 ## Propósito
 
