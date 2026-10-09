@@ -98,4 +98,8 @@ Gracias por visitar y explorar mis soluciones.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
