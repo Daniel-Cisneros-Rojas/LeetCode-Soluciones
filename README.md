@@ -37,6 +37,7 @@ Gracias por visitar y explorar mis soluciones.
 | [0012-integer-to-roman](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0020-valid-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +111,12 @@ Gracias por visitar y explorar mis soluciones.
 | [0183-customers-who-never-order](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0185-department-top-three-salaries/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
