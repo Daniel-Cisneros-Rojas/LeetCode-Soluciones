@@ -38,6 +38,7 @@ Gracias por visitar y explorar mis soluciones.
 | [0013-roman-to-integer](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/0020-valid-parentheses/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Daniel-Cisneros-Rojas/LeetCode-Soluciones/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
